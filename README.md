@@ -1,5 +1,7 @@
 # Legacy Architectury Maven Repo
 
+GitHub repository for hosting Legacy Architectury maven.
+
 ## Add maven repository to your project
 ```
 repositories {
